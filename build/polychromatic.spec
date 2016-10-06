@@ -16,6 +16,7 @@ Requires:	python-razer-chroma-libs
 Requires:	python3-setproctitle
 Requires:	python3-gobject
 Requires:	libappindicator
+Requires:	libappindicator-gtk3
 Requires:	webkitgtk
 
 
